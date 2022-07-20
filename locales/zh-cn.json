@@ -2,7 +2,7 @@
     "shiki.neurons.name": "神经元",
     "shiki.neurons.description": "以更优雅的方式，控制脚本的运行流程",
     "shiki.neurons.category": "神经元",
-    "shiki.neurons.doWhile": "do [SUBSTACK] while [COND]",
+    "shiki.neurons.doWhile": "执行 [SUBSTACK] 若 [COND] 则循环",
     "shiki.neurons.warp": "不刷新屏幕运行 [SUBSTACK]",
     "shiki.neurons.step": "单步运行 [SUBSTACK]",
     "shiki.neurons.async": "异步运行 [SUBSTACK]"
