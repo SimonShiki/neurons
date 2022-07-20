@@ -1,0 +1,9 @@
+{
+    "shiki.neurons.name": "Neurons",
+    "shiki.neurons.description": "In an elegant way, control the running process of the block stack",
+    "shiki.neurons.category": "Neurons",
+    "shiki.neurons.doWhile": "do [SUBSTACK] while [COND]",
+    "shiki.neurons.warp": "run in warp mode [SUBSTACK]",
+    "shiki.neurons.step": "run step by step [SUBSTACK]",
+    "shiki.neurons.async": "run asynchronously [SUBSTACK]"
+}
